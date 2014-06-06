@@ -1,4 +1,4 @@
-Dogecoin Testnet [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Dirrot/dogecoin-testnet/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+Tacocoin Testnet [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Dirrot/dogecoin-testnet/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 ================
 
 Informations, usage and code snippets of dogecoin -testnet mode for developers, who needs a stable playground for their applications.
